@@ -25,6 +25,7 @@
         app:layout_constraintStart_toEndOf="@id/image_tag"
         android:layout_marginStart="15dp"
         android:textSize="18sp"
+        android:textColor="@color/blackDark"
         app:layout_constraintBottom_toBottomOf="@id/image_tag"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
